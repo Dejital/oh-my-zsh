@@ -10,5 +10,6 @@ custom/*
 !custom/example
 >>>>>>> upstream/master
 !custom/example.zsh
-cache
 *.swp
+!custom/example.zshcache
+cache/
