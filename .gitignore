@@ -2,13 +2,12 @@
 locals.zsh
 log/.zsh_history
 projects.zsh
-<<<<<<< HEAD
 custom/example.zsh
 custom/local*
-=======
 custom/*
 !custom/example
->>>>>>> upstream/master
+custom
+!custom/plugins/example
 !custom/example.zsh
 *.swp
 !custom/example.zshcache
