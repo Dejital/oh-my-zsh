@@ -14,6 +14,8 @@ alias lpdf='pdflatex'
 alias lrtf='latex2rtf'
 
 # ls
+alias ls='ls -G'
+alias l='ls -la'
 alias ld='l -tr' # sort by date modified
 
 # This will check my external IP and print it
