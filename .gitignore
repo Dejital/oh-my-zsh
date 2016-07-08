@@ -6,9 +6,10 @@ custom/example.zsh
 custom/local*
 custom/*
 !custom/example
-custom
+custom/
 !custom/plugins/example
 !custom/example.zsh
-*.swp
-!custom/example.zshcache
+
+# temp files directories
 cache/
+log/
